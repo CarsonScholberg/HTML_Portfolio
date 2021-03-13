@@ -35,3 +35,8 @@ body {
     color: #ffffff;
     border-color: #99738E;
 }
+
+#profilePic {
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
